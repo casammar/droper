@@ -1,0 +1,6 @@
+name: droper
+recipe: pantheon
+config:
+  framework: wordpress
+  site: droper
+  id: 1550f8f5-d3e7-42e0-9e8a-81e9b4f6fc2d
