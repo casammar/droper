@@ -7,7 +7,10 @@ set -ex
 #==================================================
 
 # Update current apt packages
-apt-get update
+sudo apt-get update
+
+# Install Vim
+sudo apt-get install vim
 
 #=========================================================================
 # Commands below this line would not be transferable to a docker container
